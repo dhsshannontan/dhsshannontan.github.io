@@ -1,0 +1,22 @@
+<head>
+tag: <rel="stylesheet" href="/style.css"/>
+
+h1{
+
+  font-family:"Courier New", Courier, monospace;
+  color:black;
+}
+
+h2{
+  font-family:Arial, Helvetica, sans-serif;
+  color:black;
+}
+
+p{
+  font-family:Arial, Helvetica, sans-serif;
+  color:black;
+}
+
+body{
+  background color:#e60000;
+}
